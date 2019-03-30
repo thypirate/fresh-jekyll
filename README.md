@@ -3,7 +3,7 @@
 [Fresh](https://cssninja.io/themes/fresh) is a theme for [Jekyll](https://jekyllrb.com) adapted from the [Bulma](https://bulma.io/) based theme with the same name from the good folks at [CSS Ninja](https://cssninja.io/).
 
 ## Preview
-[![Fresh](https://github.com/thypirate/fresh-jekyll/blob/master/screenshot.png)(https://thypirate.github.io/fresh-jekyll/)]
+[![Fresh](https://github.com/thypirate/fresh-jekyll/blob/master/screenshot.png)](https://thypirate.github.io/fresh-jekyll/)
 
 ## Download and Installing
 You can either:
