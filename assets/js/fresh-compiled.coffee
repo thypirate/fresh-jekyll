@@ -54,7 +54,7 @@ $(document).ready ->
     $(".revealOnScroll:not(.animated)").each ->
       $this = $(this)
       offsetTop = $this.offset().top
-      if scrolled + win_height_padded > offsetTop
+      if (scrolled + win_height_padded > offsetTop)
         if $this.data('timeout')
           window.setTimeout ->
             $this.addClass('animated ' + $this.data('animation'))
